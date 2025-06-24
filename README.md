@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hey Hugo Braga is here <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-<!--
-**wolf011/wolf011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <p><img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wolf011&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Neves369" /></p>
+  <p><img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=wolf011&show_icons=true&locale=en&theme=dracula" alt="wolf011" /></p>
+</div>
 
-Here are some ideas to get you started:
+<br><br><br>
+<br><br><br>
+<br><br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+ <a href="https://www.linkedin.com/in/hugo-ms-braga/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
