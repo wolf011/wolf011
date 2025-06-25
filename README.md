@@ -83,7 +83,7 @@
 
 ---
 
-### 📬 Contato & +
+### 📬 Sobre
 
 <div align="left" style="margin-top: 30px;">
   <a href="https://www.linkedin.com/in/hugo-ms-braga/" target="_blank">
