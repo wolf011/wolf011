@@ -87,12 +87,6 @@
         style="margin: 0 5px;"
     />
   </a>
-  <a href="mailto:SEU_EMAIL@exemplo.com">
-    <img 
-        src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
-        style="margin: 0 5px;"
-    />
-  </a>
   <a href="https://github.com/wolf011?tab=repositories&sort=stargazers">
     <img 
         alt="Total de estrelas" 
