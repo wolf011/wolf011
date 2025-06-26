@@ -22,6 +22,13 @@
 
 <div align="left" style="margin: 20px 0;">
   <img 
+    alt="Python" 
+    title="Python"
+    width="40px" 
+    style="margin: 0 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+  />
+  <img 
       alt="Java" 
       title="Java"
       width="40px" 
@@ -52,6 +59,13 @@
   <img 
       alt="React" 
       title="React"
+      width="40px" 
+      style="margin: 0 10px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+  />
+  <img 
+      alt="React Native" 
+      title="React Native"
       width="40px" 
       style="margin: 0 10px;" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
