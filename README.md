@@ -2,16 +2,29 @@
 
 ### 📊 Estatísticas
 
-<div align="center">
-  <img 
+<div>
+  
+  <!-- #OLD# <img 
       height="180em" 
       src="https://github-readme-stats.vercel.app/api?username=wolf011&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
       style="margin-right: 30px;"
-  />
-  <img 
+  /> -->
+
+  <!-- #OLD# <img 
       height="180em" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=wolf011&theme=tokyonight&layout=compact&custom_title=Tecnologias" 
+  /> -->
+  <img 
+    align="left"
+    height="180em"
+    src="https://vercel-github-readme-stats-psi.vercel.app/api?username=wolf011&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
   />
+
+  <img
+    height="180em" 
+    src="https://vercel-github-readme-stats-psi.vercel.app/api/top-langs/?username=wolf011&theme=tokyonight&layout=compact&custom_title=Tecnologias"
+  />
+
 </div>
 
 <br>
